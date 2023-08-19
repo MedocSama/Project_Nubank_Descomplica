@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "path-intellisense.autoTriggerNextSuggestion": true,
+    "path-intellisense.extensionOnImport": true,
+    "path-intellisense.ignoreTsConfigBaseUrl": true,
+    "path-intellisense.showHiddenFiles": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
